@@ -1,0 +1,1 @@
+These are the Coursera Assignments for the Course - HTML, CSS, JavaScript.
